@@ -24,8 +24,10 @@ Unlike any other launcher, SynthLauncher is dedicated solely to providing you wi
 
 We are thrilled to share this pre-release version of SynthLauncher with you. Your support and participation are invaluable as we work towards delivering the most immersive, seamless, and enjoyable gaming experience.
 
-Stay tuned for upcoming updates and features as we strive to redefine the world of gaming with [Your Game Launcher Name].
+Stay tuned for upcoming updates and features as we strive to redefine the world of gaming with SynthLauncher].
 
-© 20XX [Your Game Launcher Name]. All rights reserved.
+© 2023 Synthwave Studios. All rights reserved.
 
-Explore, experience, and elevate your gaming with [Your Game Launcher Name]. Unleash the power of your imagination and conquer the virtual realms like never before!
+---
+
+Explore, experience, and elevate your gaming with SynthLauncher. Unleash the power of your imagination and conquer the virtual realms like never before!
