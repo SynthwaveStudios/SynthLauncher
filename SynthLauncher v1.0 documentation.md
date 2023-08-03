@@ -3,7 +3,7 @@
 
  <h5 align = " center "> Contents </h5>
 <p align = " center"> 
-<a href = "#introduction"> Introduction </a> • <a href = "#system-requirements"> System Requirements </a> • <a href = "#installation-and-setup"> Installation and Setup</a> • <a href = "#user-interface"> User Interface </a> • <a href = "#main-features"> Main Features </a> • <a href = "#trouble-shooting"> Troubleshooting </a> • <a href = "#launcher-updates"> Launcher Updates</a> • <a href = "#denpendencies"> Dependencies </a> • <a href = "#contact-and-feedback"> Contact and Feedback</a>
+<a href = "##introduction"> Introduction </a> • <a href = "#system-requirements"> System Requirements </a> • <a href = "#installation-and-setup"> Installation and Setup</a> • <a href = "#user-interface"> User Interface </a> • <a href = "#main-features"> Main Features </a> • <a href = "#trouble-shooting"> Troubleshooting </a> • <a href = "#launcher-updates"> Launcher Updates</a> • <a href = "#denpendencies"> Dependencies </a> • <a href = "#contact-and-feedback"> Contact and Feedback</a>
  
 <br>
  
