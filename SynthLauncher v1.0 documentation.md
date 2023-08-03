@@ -22,7 +22,7 @@ Before installing the Game Launcher, ensure your system meets the following mini
 
 ## 3. Installation and Setup
 
-1. Download the Game Launcher installer for your respective platform from our website.
+1. Download the Game Launcher installer for your respective platform from <a href = "https://github.com/SynthwaveStudios/SynthLauncher"> here </a>
 2. Run the installer and follow the on-screen instructions to complete the installation process.
 3. Once installed, launch the Game Launcher.
 
