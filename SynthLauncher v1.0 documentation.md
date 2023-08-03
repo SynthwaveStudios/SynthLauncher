@@ -1,7 +1,12 @@
- # SynthLauncher Documentation [v1.0]
+ <h1 align = "center"> SynthLauncher Documentation [v1.0]
+ </h1>
+ <break>
 
+ <h5 align = " center "> Contents </h5>
+ 
+
+ 
 ## 1. Introduction
-
 Welcome to the SynthLauncher, a powerful platform that enables you to manage and play our games seamlessly on Windows, macOS, and Linux. This documentation will guide you through the installation, setup, and usage of the launcher, providing an enhanced gaming experience for all users.
 
 ## 2. System Requirements
