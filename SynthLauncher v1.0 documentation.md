@@ -1,4 +1,4 @@
-# SynthLauncher Documentation [v1.0]
+ # SynthLauncher Documentation [v1.0]
 
 ## 1. Introduction
 
@@ -53,5 +53,8 @@ The Game Launcher is designed to be self-contained, and no additional third-part
 ## 9. Contact and Feedback
 
 We value your feedback and strive to provide excellent user support. If you have any questions, suggestions, or encounter any issues, please use the contact option within the launcher to get in touch with our support team.
+
+[Click here](mailto:synthwavesupport@gmail.com) to mail our support team, feel free to contact with us. 
+
 
 Thank you for choosing the Game Launcher for your Unity games. We hope you enjoy a seamless gaming experience!
