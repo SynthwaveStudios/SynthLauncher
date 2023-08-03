@@ -62,5 +62,4 @@ We value your feedback and strive to provide excellent user support. If you have
 
 [Click here](mailto:synthwavesupport@gmail.com) to mail our support team, feel free to contact with us. 
 
-
-Thank you for choosing the Game Launcher for your Unity games. We hope you enjoy a seamless gaming experience!
+---
