@@ -1,10 +1,11 @@
  <h1 align = "center"> SynthLauncher Documentation [v1.0]
  </h1>
- <break>
 
  <h5 align = " center "> Contents </h5>
+<p align = " center"> 
+<a href = "#introduction"> Introduction </a> • <a href = "#system-requirements"> System Requirements </a> • <a href = "#installation-and-setup"> Installation and Setup</a> • <a href = "#user-interface"> User Interface </a> • <a href = "#main-features"> Main Features </a> • <a href = "#trouble-shooting"> Troubleshooting </a> • <a href = "#launcher-updates"> Launcher Updates</a> • <a href = "#denpendencies"> Dependencies </a> • <a href = "#contact-and-feedback"> Contact and Feedback</a>
  
-
+<br>
  
 ## 1. Introduction
 Welcome to the SynthLauncher, a powerful platform that enables you to manage and play our games seamlessly on Windows, macOS, and Linux. This documentation will guide you through the installation, setup, and usage of the launcher, providing an enhanced gaming experience for all users.
